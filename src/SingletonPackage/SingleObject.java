@@ -1,5 +1,8 @@
 package SingletonPackage;
 
+/** @author Chitra
+ * @version 2024.04
+ */
 public class SingleObject {
     /**
      * Create an object of SingleObject
