@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"SingletonPackage","l":"SingleObject"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"singletonPackage","l":"SingleObject"},{"p":"singletonPackage","l":"SingletonObject_Test"},{"p":"singletonPackage","l":"SingletonPatternDemo"}];updateSearchResults();

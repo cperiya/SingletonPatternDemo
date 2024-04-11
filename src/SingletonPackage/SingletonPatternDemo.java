@@ -1,4 +1,4 @@
-package SingletonPackage;
+package singletonPackage;
 
 /*** 
  * main class for Singleton pattern

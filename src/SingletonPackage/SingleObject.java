@@ -1,4 +1,4 @@
-package SingletonPackage;
+package singletonPackage;
 
 /** class with methods related to singleton pattern instance  
  * @author Chitra
@@ -25,7 +25,7 @@ public class SingleObject {
      
      /**
       * prints the pattern name
-      * @return instance
+      * 
       */
      public void showMessage(){
          System.out.println("Singleton Pattern!");

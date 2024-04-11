@@ -1,4 +1,4 @@
-package SingletonPackage;
+package singletonPackage;
 
 import static org.junit.Assert.*;
 
