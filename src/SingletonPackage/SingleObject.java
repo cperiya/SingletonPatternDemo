@@ -1,6 +1,7 @@
 package SingletonPackage;
 
-/** @author Chitra
+/** class with methods related to singleton pattern instance  
+ * @author Chitra
  * @version 2024.04
  */
 public class SingleObject {
@@ -22,6 +23,10 @@ public class SingleObject {
          return instance;
      }   
      
+     /**
+      * prints the pattern name
+      * @return instance
+      */
      public void showMessage(){
          System.out.println("Singleton Pattern!");
      }

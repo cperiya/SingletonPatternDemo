@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"SingletonPackage","c":"SingleObject","l":"getInstance()"},{"p":"SingletonPackage","c":"SingleObject","l":"showMessage()"}];updateSearchResults();

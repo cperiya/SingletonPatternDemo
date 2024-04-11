@@ -1,6 +1,7 @@
 package SingletonPackage;
 
-/***
+/*** 
+ * main class for Singleton pattern
  * @author Chitra
  * @version 2024.04
  */
